@@ -59,5 +59,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void scan(View view) {
+
+        String buddy;
+        String Edy;
     }
 }
