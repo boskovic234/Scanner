@@ -64,5 +64,6 @@ public class MainActivity extends AppCompatActivity {
         String Edy;
         String Bux;
         String Cungul;
+        String X;
     }
 }
